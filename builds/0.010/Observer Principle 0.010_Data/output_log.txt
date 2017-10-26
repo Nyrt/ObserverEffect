@@ -1,0 +1,40 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 755M (ID=0xfcd)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.010\Observer Principle 0.010_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.010\Observer Principle 0.010_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.010\Observer Principle 0.010_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.010\Observer Principle 0.010_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.010\Observer Principle 0.010_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.010\Observer Principle 0.010_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.010\Observer Principle 0.010_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.010\Observer Principle 0.010_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.010\Observer Principle 0.010_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.010\Observer Principle 0.010_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.010\Observer Principle 0.010_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.010\Observer Principle 0.010_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.643 seconds
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.010\Observer Principle 0.010_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.010\Observer Principle 0.010_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 38f0 -> priority: 1 
+  Thread -> id: 3b24 -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.394723 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (player).
+ 
+(Filename:  Line: 485)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1586.
+Total: 0.520025 ms (FindLiveObjects: 0.084247 ms CreateObjectMapping: 0.037633 ms MarkObjects: 0.387025 ms  DeleteObjects: 0.010691 ms)
+

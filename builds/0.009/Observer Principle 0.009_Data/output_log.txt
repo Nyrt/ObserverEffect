@@ -1,0 +1,56 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 755M (ID=0xfcd)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.009\Observer Principle 0.009_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.009\Observer Principle 0.009_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.009\Observer Principle 0.009_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.009\Observer Principle 0.009_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.009\Observer Principle 0.009_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.009\Observer Principle 0.009_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.009\Observer Principle 0.009_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.009\Observer Principle 0.009_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.009\Observer Principle 0.009_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.009\Observer Principle 0.009_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.009\Observer Principle 0.009_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.009\Observer Principle 0.009_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+desktop: 1920x1080 59Hz; virtual: 3840x2104 at -1920,-1024
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.009\Observer Principle 0.009_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\nyrtl_000\Documents\game dev\TAS\Tool Asissted Speedrun\builds\0.009\Observer Principle 0.009_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2104 -> priority: 1 
+  Thread -> id: 2120 -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.405842 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (player).
+ 
+(Filename:  Line: 485)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1580.
+Total: 0.518315 ms (FindLiveObjects: 0.087668 ms CreateObjectMapping: 0.047041 ms MarkObjects: 0.371630 ms  DeleteObjects: 0.010691 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.271249 ms
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 290.
+Total: 0.432784 ms (FindLiveObjects: 0.029080 ms CreateObjectMapping: 0.017961 ms MarkObjects: 0.200996 ms  DeleteObjects: 0.184318 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.279257 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (player).
+ 
+(Filename:  Line: 485)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1589.
+Total: 0.490090 ms (FindLiveObjects: 0.074411 ms CreateObjectMapping: 0.044475 ms MarkObjects: 0.359656 ms  DeleteObjects: 0.010691 ms)
+
